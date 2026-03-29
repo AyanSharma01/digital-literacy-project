@@ -1,6 +1,4 @@
-# digital-literacy-project
-# Ayan Sharma – Digital Literacy Portfolio
-
+# Digital-literacy-project
 **Branch:** Int M.tech AI  
 **Year:** First Year   
 
