@@ -1,0 +1,17 @@
+Prevention Checklist:
+
+# Stay Safe Online – Prevention Tips for Students
+
+1. Always verify email senders before clicking links.  
+2. Hover over links to check URLs before opening them.  
+3. Enable **two-factor authentication (2FA)** on all accounts.  
+4. Use strong, unique passwords for each platform.  
+5. Never share personal or banking information via email.  
+6. Avoid downloading attachments from unknown sources.  
+7. For UPI/online payments:  
+   - Verify recipient details carefully.  
+   - Use official bank apps or UPI apps only.  
+8. Regularly monitor bank accounts and report suspicious activity immediately.  
+9. Report cybercrime incidents to:  
+   - **National Cyber Crime Portal:** [cybercrime.gov.in](https://www.cybercrime.gov.in)  
+   - **Helpline:** 1930  
