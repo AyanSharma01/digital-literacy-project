@@ -1,10 +1,10 @@
-# Digital-literacy-project
+# Digital Literacy Project – Ayan Sharma
 **Branch:** Int M.tech AI  
 **Year:** First Year   
 
 I aim to learn practical coding, collaborative projects, and digital tools to enhance my academic skills.
 https://docs.google.com/forms/d/e/1FAIpQLSf-hTEpmlLvvmPh3Hq5V_X7iUWiOOr2_ewvg0a1asmTQj_0Nw/viewform?usp=publish-editor
-# Digital Literacy Project – Ayan Sharma
+
 
 ## 📘 Overview
 This repository contains my Digital Literacy Portfolio for **CSE0001 – Digital Literacy**.  
