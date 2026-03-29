@@ -20,7 +20,7 @@ It includes five tasks covering digital literacy awareness, professional presenc
 - **Task 5 – Cybercrime Awareness**
 
 ## 📎 Links
-- 🔗 [Task 1 – Infographic](  
+- 🔗 [Task 1 – Infographic](task-1-presentation/)
 - 🔗 [Task 2 – Digital Portfolio](task-2-portfolio/)  
 - 🔗 [Task 3 – Coding Platforms](task-3-platforms/)  
 - 🔗 [Task 4 – Emails & Checklist](task-4-email-etiquette/)  
